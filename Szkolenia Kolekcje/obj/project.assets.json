@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Szkolenia Kolekcje.csproj",
+      "projectUniqueName": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Szkolenia Kolekcje.csproj",
       "projectName": "Szkolenia Kolekcje",
-      "projectPath": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Szkolenia Kolekcje.csproj",
+      "projectPath": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Szkolenia Kolekcje.csproj",
       "packagesPath": "C:\\Users\\arek1\\.nuget\\packages\\",
-      "outputPath": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\obj\\",
+      "outputPath": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

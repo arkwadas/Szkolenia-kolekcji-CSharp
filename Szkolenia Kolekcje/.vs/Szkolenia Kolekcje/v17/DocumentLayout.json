@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\",
+  "WorkspaceRootPath": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|d:\\!00_underift\\szkolenia\\szkolenia kolekcje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|d:\\!00_underift\\szkolenia\\szkolenia-kolekcji-w-c-\\szkolenia kolekcje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|d:\\!00_underift\\szkolenia\\szkolenia kolekcje\\listy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|solutionrelative:listy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|d:\\!00_underift\\szkolenia\\szkolenia kolekcje\\slownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|solutionrelative:slownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|d:\\!00_underift\\szkolenia\\szkolenia kolekcje\\stos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|d:\\!00_underift\\szkolenia\\szkolenia-kolekcji-w-c-\\szkolenia kolekcje\\stos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|solutionrelative:stos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|d:\\!00_underift\\szkolenia\\szkolenia kolekcje\\kolejka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|d:\\!00_underift\\szkolenia\\szkolenia-kolekcji-w-c-\\szkolenia kolekcje\\kolejka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|solutionrelative:kolejka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|d:\\!00_underift\\szkolenia\\szkolenia-kolekcji-w-c-\\szkolenia kolekcje\\slownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|solutionrelative:slownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|d:\\!00_underift\\szkolenia\\szkolenia-kolekcji-w-c-\\szkolenia kolekcje\\listy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D8AC83-C179-4207-8599-BF7CC65C9774}|Szkolenia Kolekcje.csproj|solutionrelative:listy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,52 +50,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Stos.cs",
-              "DocumentMoniker": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Stos.cs",
+              "DocumentMoniker": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Stos.cs",
               "RelativeDocumentMoniker": "Stos.cs",
-              "ToolTip": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Stos.cs",
+              "ToolTip": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Stos.cs",
               "RelativeToolTip": "Stos.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAowIgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowHQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T21:26:39.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Kolejka.cs",
-              "DocumentMoniker": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Kolejka.cs",
+              "DocumentMoniker": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Kolejka.cs",
               "RelativeDocumentMoniker": "Kolejka.cs",
-              "ToolTip": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Kolejka.cs",
+              "ToolTip": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Kolejka.cs",
               "RelativeToolTip": "Kolejka.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowH8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T21:26:14.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Slownik.cs",
-              "DocumentMoniker": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Slownik.cs",
+              "DocumentMoniker": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Slownik.cs",
               "RelativeDocumentMoniker": "Slownik.cs",
-              "ToolTip": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Slownik.cs",
+              "ToolTip": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Slownik.cs",
               "RelativeToolTip": "Slownik.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwHAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T21:25:44.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Listy.cs",
-              "DocumentMoniker": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Listy.cs",
+              "DocumentMoniker": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Listy.cs",
               "RelativeDocumentMoniker": "Listy.cs",
-              "ToolTip": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Listy.cs",
+              "ToolTip": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Listy.cs",
               "RelativeToolTip": "Listy.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAwwJIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAA5wEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T21:25:13.209Z",
               "EditorCaption": ""
@@ -104,11 +104,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Program.cs",
+              "DocumentMoniker": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia Kolekcje\\Program.cs",
+              "ToolTip": "D:\\!00_UNDERIFT\\Szkolenia\\Szkolenia-kolekcji-w-C-\\Szkolenia Kolekcje\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T21:16:44.12Z",
               "EditorCaption": ""

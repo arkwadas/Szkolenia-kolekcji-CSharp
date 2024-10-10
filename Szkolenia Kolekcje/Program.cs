@@ -20,9 +20,9 @@ class Program
         // Program z imionami
         listy.ProgramImiona();
         
-        Console.ReadKey(); // Czekamy na naciśnięcie klawisza przed zamknięciem programu
+        Console.ReadKey(); // Czekamy na naciśnięcie klawisza przed zamknięciem programu*/
 
-        /*Slownik slownik = new Slownik();
+        Slownik slownik = new Slownik();
 
         slownik.TworzenieSlownika();
         slownik.DictonaryPrzykladPraktyczny();
@@ -42,6 +42,6 @@ class Program
         stos.PrzykladPraktycznyStos();
         stos.ProgramZZyciaStos();
 
-        Console.ReadKey();*/
+        Console.ReadKey();
     }
 }

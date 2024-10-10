@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Szkolenia Kolekcje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c56973ec5acbdef9b95950da9a30b8ce3eaae2c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Szkolenia Kolekcje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Szkolenia Kolekcje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
